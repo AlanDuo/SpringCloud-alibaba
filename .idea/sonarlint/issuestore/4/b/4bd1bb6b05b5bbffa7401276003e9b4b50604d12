@@ -1,0 +1,13 @@
+
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(áùºùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(áùºùÿÿÿÿ
+B
+java:S1444"-Make this "public static hashMap" field final(¦ØÅb
+h
+java:S1104"SMake hashMap a static final constant or non-public and provide accessors if needed.(¦ØÅb
+„
+java:S1319"oThe type of the "hashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(¦ØÅb
+2
+java:S2386"Make this member "protected".(¦ØÅb

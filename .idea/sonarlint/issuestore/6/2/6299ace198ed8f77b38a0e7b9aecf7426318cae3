@@ -1,0 +1,7 @@
+
+j	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö„¥§8ıî‚áÛ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şğ“Øùÿÿÿÿ8Ğ«œÑÛ.
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(ºûØƒıÿÿÿÿ8ıî‚áÛ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ûşÿÿÿÿ8ªÿõÚÛ.
+]	java:S125"<This block of commented-out lines of code should be removed.(û« µÿÿÿÿÿ8Ñ¸²ÜÛ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«²òıÿÿÿÿ8ùßÑÛ.
